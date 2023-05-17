@@ -1,0 +1,1 @@
+-include sources/networks/net/can/Makefile.mk
